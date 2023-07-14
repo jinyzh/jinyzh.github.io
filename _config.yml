@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jinyu Zhang"
-description              : "test"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : ""
+repository               : "jinyzh/jinyzh.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinyu Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science & Technology of China"
+  bio              : "B.Eng Student @ UESTC"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "jinyuzhang@ieee.org"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0001-1045-6787"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
