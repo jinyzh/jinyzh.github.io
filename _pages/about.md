@@ -33,7 +33,7 @@ My research interest includes Mixed-Signal IC Design, LO Generation, Phase-Locke
 
 
 # 📖 Educations
-- *2020.09 - 2024.06 (now)*, ，School of Integrated Circuit Science and Engineering, University of Electronic Science and Technology of China. 
+- *2020.09 - now*, School of Integrated Circuit Science and Engineering, University of Electronic Science and Technology of China. 
  
 
 # 💬 Invited Talks
@@ -41,3 +41,7 @@ My research interest includes Mixed-Signal IC Design, LO Generation, Phase-Locke
 
 # 💻 Internships
 - *2022.07 - 2022.08*, Chongqing Institute of Microelectronics Industry Technology, China.
+
+# Others
+- Genshin Impact UID: 193847170
+- Switch Friend Code: SW-2328-8798-2487
