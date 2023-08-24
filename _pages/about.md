@@ -24,12 +24,13 @@ My research interest includes Mixed-Signal IC Design, LO Generation, Phase-Locke
 
 
 # 🔥 News
-
+- *2023.08* First paper accepted by ICICM 2013.
 
 # 📝 Publications 
-
+An 18.8-to-40.4 GHz reconfigurable multi-mode VCO with wide-band common-mode resonance, Yuxuan Sun, # Jinyu Zhang, Hanze Liu and Zheng Wang (accepted by ICICM 2023).
 
 # 🎖 Honors and Awards
+- *2023.08* Second Prize in the 7th China College IC Competition, IEEE Cup(全国大学生集成电路创新创业大赛二等奖).
 
 
 # 📖 Educations
@@ -41,7 +42,3 @@ My research interest includes Mixed-Signal IC Design, LO Generation, Phase-Locke
 
 # 💻 Internships
 - *2022.07 - 2022.08*, Chongqing Institute of Microelectronics Industry Technology, China.
-
-# ⛔ Others
-- Genshin Impact UID: 193847170
-- Switch Friend Code: SW-2328-8798-2487
