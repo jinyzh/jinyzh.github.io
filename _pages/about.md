@@ -28,7 +28,7 @@ My research interest includes Mixed-Signal IC Design, LO Generation, Phase-Locke
 - *2023.08*, Won second prize in the IEEE cup of 7th China College IC Competition.
 
 # 📝 Publications 
-- [An 18.8-to-40.4 GHz reconfigurable multi-mode VCO with wide-band common-mode resonance](https://ieeexplore.ieee.org/document/10365840), Yuxuan Sun, **Jinyu Zhang**, Hanze Liu and Zheng Wang (accepted by ICICM 2023).
+- [An 18.8-to-40.4 GHz reconfigurable multi-mode VCO with wide-band common-mode resonance](https://ieeexplore.ieee.org/document/10365840), Yuxuan Sun, **Jinyu Zhang**, Hanze Liu and Zheng Wang.
 
 # 🎖 Honors and Awards
 - *2023.08*, Second Prize in the 7th China College IC Competition, IEEE Cup(全国大学生集成电路创新创业大赛二等奖).
